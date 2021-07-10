@@ -1,0 +1,14 @@
+.card {
+  height: 42.14963119072708vh;
+  max-height: 100%;
+  width: 100%;
+}
+.image {
+  height: 50%;
+}
+.img {
+  height: 21.07481559536354vh !important;
+}
+.cardSpace {
+  margin: 1.053740779768177vh 0vh;
+}
